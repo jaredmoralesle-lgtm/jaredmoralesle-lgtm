@@ -27,5 +27,5 @@
 
 ## 📫 Contacto
 
-- LinkedIn: (pega aquí tu enlace)
-- Correo: (tu correo profesional)
+- LinkedIn: (www.linkedin.com/in/jared-filiph-morales-león-175b663b3)
+- Correo: (jaredmoralesle@gmail.com)
