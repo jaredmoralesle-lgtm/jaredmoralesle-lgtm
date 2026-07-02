@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hola, soy Jared Filiph Morales León
 
-<!--
-**jaredmoralesle-lgtm/jaredmoralesle-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería de Sistemas en la Universidad César Vallejo.
 
-Here are some ideas to get you started:
+## 💻 Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Python
+- SQL
+- Git
+- GitHub
+- HTML
+- CSS
+- JavaScript
+
+## 🚀 Actualmente
+
+- Aprendiendo Spring Boot
+- Desarrollando proyectos Backend
+- Mejorando mis habilidades en bases de datos y APIs REST
+
+## 🎯 Objetivos
+
+- Obtener prácticas profesionales como Backend Developer.
+- Construir proyectos que resuelvan problemas reales.
+- Aprender Docker y AWS.
+
+## 📫 Contacto
+
+- LinkedIn: (pega aquí tu enlace)
+- Correo: (tu correo profesional)
